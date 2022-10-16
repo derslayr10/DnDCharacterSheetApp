@@ -13,7 +13,7 @@ These are some of the things I may include at some point, but cannot guarantee a
 ## How to Contact or Request Content Additions
 First I would like to say that, as a single developer, things will take me time to incorporate. I plan on including ALL official (as in, printed and published by Wizards of the Coast) content as far as items, classes, etc. go. This may or may not include Unearthed Arcana (UA) content, as they are technically not official releases. With this in mind, please keep requests scarce, to 3rd-Party or Homebrew content, and allow me a chance to actually get to the new content before badgering me about it. I am doing this for free at this point in time, and will not tolerate being berrated on spending my skills on this.
 
-To request new content, please open an issue with the subject having "CONTENT REQUEST" of some variation in the title. From there, give me as accurate a description as possible of what you want added and if I feel like adding it in, I will reply to your issue and say I will get on it.
+To request new content, please open an issue with the subject having "CONTENT REQUEST" or some variation in the title. From there, give me as accurate a description as possible of what you want added and if I feel like adding it in, I will reply to your issue and say I will get on it.
 
 At this time, I am not going to list any contact information. If this takes off and people enjoy it, I will create a Discord server and link the invitation within this file or in the project description. I will take this one step at a time to make sure I am not overwhelmed by this task.
 
